@@ -1,0 +1,11 @@
+.Grid{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 30px;
+}
+.Grid img{
+    height: 200px;
+    width: 300px;
+   align-items: center;
+   margin-left: 50px;
+}

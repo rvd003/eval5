@@ -1,0 +1,25 @@
+.C{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+  grid-gap: 120px;
+  width: 400px;
+  margin-left: 60px;
+  
+   
+}
+.cartImg{
+    height: 250px;
+    width: 300px;
+   
+}
+.b{
+    
+    height: auto;
+    width: auto;
+    grid-gap: 150px;
+}
+.cartbutton{
+   
+    align-items: center;
+    margin-left: 80px;
+}
